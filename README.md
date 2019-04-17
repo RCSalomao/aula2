@@ -10,3 +10,6 @@ Estou na minha máquina local.
 
 ## Segunda edição local
 Estou na minha máquina local.
+
+## Dependências
+Necessita clonar tcc.git
