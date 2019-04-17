@@ -6,3 +6,6 @@ texto da edição via site.
 
 ## Edição local
 Estou na minha máquina local.
+
+## Segunda edição local
+Estou na minha máquina local.
