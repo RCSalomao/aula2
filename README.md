@@ -2,7 +2,8 @@
 Atividades na aula 2 do curso de GIT.
 
 ## Edição via site
-texto da edição via site.
+Texto da edição via site.
+Outra coisa modificada.
 
 ## Edição local
 Estou na minha máquina local.
