@@ -14,4 +14,4 @@ Estou na minha máquina local.
 ## Dependências
 Necessita clonar tcc.git
 
-## Readme Incrementado :D
+## Readme Incrementado
