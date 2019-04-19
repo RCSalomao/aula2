@@ -15,6 +15,7 @@ Estou na minha máquina local.
 Necessita clonar tcc.git
 
 ## Readme Incrementado
-Modificação feita através do Lubuntu
+Modificação feita através do Lubuntu.
+Modificação feita através do Xubuntu.
 
 Outra modificação.
